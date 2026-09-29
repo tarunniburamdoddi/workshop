@@ -1,0 +1,15 @@
+GIT=global informational tracker
+independent platform=user friendly
+REPO=folder we store the code
+ls=list of items
+init=intiallized emply of files
+ls -al =it shows .git at end then it says complete installation is completed
+ctrl+l=clear t5he command section
+touch dev1=creating a file
+ls dev1= to come in next line
+esc:wq=save quit
+vi=editing content
+insert mode(to insert content in editor) =I
+editors=vi or vim
+for seeing content in file we want to enter in commands="cat file name"
+if we enter "ls" in command then it gives the folder name in next line
